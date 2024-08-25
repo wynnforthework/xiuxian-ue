@@ -1,4 +1,4 @@
 [submodule "Plugins/UnrealCSharp"]
 	path = Plugins/UnrealCSharp
-	url = https://github.com/wynnforthework/UnrealCSharp
-	branch = dev_001
+	url = https://github.com/crazytuzi/UnrealCSharp
+	branch = develop
